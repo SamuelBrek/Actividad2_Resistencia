@@ -1,0 +1,12 @@
+[{"id":1,"ColorName":"negro","ValorBanda":0,"TerceraBanda":1},
+{"id":2,"ColorName":"cafe","ValorBanda":1,"TerceraBanda":10},
+{"id":3,"ColorName":"rojo","ValorBanda":2,"TerceraBanda":100},
+{"id":4,"ColorName":"naranja","ValorBanda":3,"TerceraBanda":1000},
+{"id":5,"ColorName":"amarillo","ValorBanda":4,"TerceraBanda":10000},
+{"id":6,"ColorName":"verde","ValorBanda":5,"TerceraBanda":100000},
+{"id":7,"ColorName":"azul","ValorBanda":6,"TerceraBanda":1000000},
+{"id":8,"ColorName":"violeta","ValorBanda":7,"TerceraBanda":10000000},
+{"id":9,"ColorName":"gris","ValorBanda":8,"TerceraBanda":100000000},
+{"id":10,"ColorName":"blanco","ValorBanda":9,"TerceraBanda":1000000000},
+{"id":11,"ColorName":"dorado","ValorBanda":5,"TerceraBanda":10},
+{"id":12,"ColorName":"plata","ValorBanda":10,"TerceraBanda":100}]
